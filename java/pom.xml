@@ -15,9 +15,9 @@
 		<module>rmtest-cucumber-restassured</module>
 		<module>rmtest-cucumber-selenium</module>
 		<module>rmtest-cucumber-standalone</module>
+		<module>rmtest-example</module>
 		<module>rmtest-appium</module>
 		<module>rmtest-testdroid</module>
-		<module>rmtest-example</module>
 	</modules>
 	<licenses>
 		<license>
